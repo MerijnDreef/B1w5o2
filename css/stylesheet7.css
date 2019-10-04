@@ -27,11 +27,3 @@ li {
     margin: 0 auto;
     width: 800px;
 }
-a:link {
-    color: #bf1111;
-    text-decoration: none;
-}
-a:visited {
-  color: #bf1111;
-  text-decoration: none;
-}
