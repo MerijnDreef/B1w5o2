@@ -6,16 +6,13 @@ body {
 }
 a:link {
     color: rgba(255, 255, 255, 0.8);
-    background-color: solid;
     text-decoration: none;
 }
 a:visited {
   color: rgba(255, 255, 255, 0.8);
-  background-color: solid;
   text-decoration: none;
 }
 i {
-  display: center;
   margin: 0 auto;
   height: 20px;
   width: 100px;
