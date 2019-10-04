@@ -38,3 +38,7 @@ a:visited {
     margin: 0 auto;
     width: 800px;
 }
+li {
+    display: inline-block;
+    text-align: center;
+}
