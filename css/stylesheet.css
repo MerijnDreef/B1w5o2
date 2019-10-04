@@ -11,3 +11,13 @@ i {
    height: 50px;
    width: 50px;
 }
+a:link {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: solid;
+  text-decoration: none;
+}
+a:visited {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: solid;
+  text-decoration: none;
+}
