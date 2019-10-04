@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #0d409e;
+    text-align: center;
+}
+a:link {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+a:visited {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+i {
+  margin: 0 auto;
+  height: 20px;
+  width: 100px;
+  font-size: 30px;
+}
+li {
+  display: inline-block;
+  text-align: center;
+}
+#content {
+    
+    margin: 0 auto;
+    width: 800px;
+}
+a:link {
+    color: #bf1111;
+    text-decoration: none;
+}
+a:visited {
+  color: #bf1111;
+  text-decoration: none;
+}
